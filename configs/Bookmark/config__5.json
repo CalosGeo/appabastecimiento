@@ -1,0 +1,211 @@
+{
+  "bookmarks2D": [
+    {
+      "displayName": "Calle del camino de Vinateros-Metro",
+      "name": "Calle del camino de Vinateros-Metro",
+      "extent": {
+        "xmin": -406510.59269408026,
+        "ymin": 4925435.600281206,
+        "xmax": -405865.6552679785,
+        "ymax": 4925793.898851263,
+        "spatialReference": {
+          "wkid": 102100
+        },
+        "cache": {
+          "_parts": [
+            {
+              "extent": {
+                "xmin": -406510.59269408026,
+                "ymin": 4925435.600281206,
+                "xmax": -405865.6552679785,
+                "ymax": 4925793.898851263,
+                "spatialReference": {
+                  "wkid": 102100
+                }
+              },
+              "frameIds": [
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "isInWebmap": false,
+      "isSaveLayers": false,
+      "layerOptions": {
+        "Red_Abastecimiento_4172": {
+          "selected": true
+        },
+        "Red_Abastecimiento_4277": {
+          "selected": true
+        },
+        "Red_Abastecimiento_5315": {
+          "selected": true
+        },
+        "Red_Abastecimiento_5613": {
+          "selected": true
+        },
+        "Red_Abastecimiento_9861": {
+          "selected": true
+        },
+        "Red_Abastecimiento_8707": {
+          "selected": true
+        },
+        "Red_Abastecimiento_651": {
+          "selected": true
+        },
+        "Red_Abastecimiento_502": {
+          "selected": true
+        },
+        "Red_Abastecimiento_6350": {
+          "selected": false
+        }
+      },
+      "_uID": 30,
+      "isSaveExtent": true,
+      "thumbnail": "${appPath}/configs/Bookmark/base64Img__5_1_1646844878034.png"
+    },
+    {
+      "displayName": "Calle de la Marroquina",
+      "name": "Calle de la Marroquina",
+      "extent": {
+        "xmin": -406510.59269408026,
+        "ymin": 4925435.600281206,
+        "xmax": -405865.6552679785,
+        "ymax": 4925793.898851263,
+        "spatialReference": {
+          "wkid": 102100
+        },
+        "cache": {
+          "_parts": [
+            {
+              "extent": {
+                "xmin": -406510.59269408026,
+                "ymin": 4925435.600281206,
+                "xmax": -405865.6552679785,
+                "ymax": 4925793.898851263,
+                "spatialReference": {
+                  "wkid": 102100
+                }
+              },
+              "frameIds": [
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "isInWebmap": false,
+      "isSaveLayers": false,
+      "layerOptions": {
+        "Red_Abastecimiento_4172": {
+          "selected": true
+        },
+        "Red_Abastecimiento_4277": {
+          "selected": true
+        },
+        "Red_Abastecimiento_5315": {
+          "selected": true
+        },
+        "Red_Abastecimiento_5613": {
+          "selected": true
+        },
+        "Red_Abastecimiento_9861": {
+          "selected": true
+        },
+        "Red_Abastecimiento_8707": {
+          "selected": true
+        },
+        "Red_Abastecimiento_651": {
+          "selected": true
+        },
+        "Red_Abastecimiento_502": {
+          "selected": true
+        },
+        "Red_Abastecimiento_6350": {
+          "selected": false
+        }
+      },
+      "_uID": 31,
+      "isSaveExtent": true,
+      "thumbnail": "${appPath}/configs/Bookmark/base64Img__5_2_1646844878041.png"
+    },
+    {
+      "displayName": "Avenida Doctor Garcia Tapia",
+      "name": "Avenida Doctor Garcia Tapia",
+      "extent": {
+        "xmin": -406632.4142078995,
+        "ymin": 4925969.465150591,
+        "xmax": -405987.4767817977,
+        "ymax": 4926327.763720648,
+        "spatialReference": {
+          "wkid": 102100
+        },
+        "cache": {
+          "_parts": [
+            {
+              "extent": {
+                "xmin": -406632.4142078995,
+                "ymin": 4925969.465150591,
+                "xmax": -405987.4767817977,
+                "ymax": 4926327.763720648,
+                "spatialReference": {
+                  "wkid": 102100
+                }
+              },
+              "frameIds": [
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "thumbnail": "${appPath}/configs/Bookmark/base64Img__5_3_1646844878048.png",
+      "isInWebmap": false,
+      "isSaveLayers": false,
+      "layerOptions": {
+        "Red_Abastecimiento_4172": {
+          "selected": true
+        },
+        "Red_Abastecimiento_4277": {
+          "selected": true
+        },
+        "Red_Abastecimiento_5315": {
+          "selected": true
+        },
+        "Red_Abastecimiento_5613": {
+          "selected": true
+        },
+        "Red_Abastecimiento_9861": {
+          "selected": true
+        },
+        "Red_Abastecimiento_8707": {
+          "selected": true
+        },
+        "Red_Abastecimiento_651": {
+          "selected": true
+        },
+        "Red_Abastecimiento_502": {
+          "selected": true
+        },
+        "Red_Abastecimiento_6350": {
+          "selected": false
+        }
+      },
+      "_uID": 32,
+      "isSaveExtent": true
+    }
+  ],
+  "bookmarks3D": [],
+  "layout": {
+    "cards": true,
+    "list": false,
+    "defaultMode": "cards"
+  },
+  "editable": true,
+  "syncMode": {
+    "webmap": false,
+    "custom": true
+  },
+  "isSaveLayerVisibility": false
+}
